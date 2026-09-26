@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/dashboard-componentization",
+    "feat/phase-2-core-engine",
+    "fix-strkey-validation-288",
+    "main",
+    "origin",
+    "task-10",
+    "task-11",
+    "task-11-watcher"
+  ],
+  "parent": {
+    "feat/dashboard-componentization": "main",
+    "feat/phase-2-core-engine": "main",
+    "fix-strkey-validation-288": "main",
+    "main": null,
+    "origin": "main",
+    "task-10": "main",
+    "task-11": "main",
+    "task-11-watcher": "task-11"
+  },
+  "order": [
+    "main",
+    "feat/dashboard-componentization",
+    "feat/phase-2-core-engine",
+    "fix-strkey-validation-288",
+    "origin",
+    "task-10",
+    "task-11",
+    "task-11-watcher"
+  ]
+}
